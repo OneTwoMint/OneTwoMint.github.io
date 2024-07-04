@@ -1,0 +1,143 @@
+body{
+    background-color: #1139a8;
+    padding-top:0px;
+    margin-top:0px;
+    margin-left:0px;
+    margin-right:0px;
+    color:white;
+    min-width:600px;
+    padding-bottom:0px;
+    margin-bottom:0px;
+    padding-bottom:60px;
+    position:relative;
+    min-height:92vh;
+    padding-right:0px;
+    font-family: 'CaveStoryRegular';
+}
+
+p{
+    font-size:2em;
+}
+
+h3{
+    font-size:3em;
+    font-weight:400;
+}
+
+h1{
+    font-size:3.5em;
+    font-weight:400;
+}
+h5{
+    font-size:1em;
+    font-weight:100;
+}
+
+a{
+    color:white;
+}
+
+header{
+  
+    padding:10px;
+    padding-left:40vw;
+    border-bottom: solid white;
+    background-color: #3e69dd;
+    padding-bottom:50px;
+    margin-bottom:30px;
+    margin-right:0px;
+}
+
+#nav{
+    position:absolute;
+    right:0px;
+    top:140px;
+    padding-right:20px;
+}
+
+td{
+    padding-left:20px;
+    padding-right:20px;
+    font-size:2em;
+}
+
+aside{
+    float:right;
+    background-color: #183070;
+    padding:15px;
+    width:15%;
+    max-width:200px;
+}
+
+#rightcolumn{
+    margin-right: 30px;
+    margin-top:60px;
+    min-width:120px;
+}
+
+#leftcolumn{
+    margin-left:20%;
+    width:55%;
+    min-width: 320px;
+    margin-right:10px;
+}
+#splash{
+    margin-left:auto 0;
+    margin-right:auto 0;
+}
+
+#welcome{
+    background-color: #183070;
+    padding-left:10px;
+    padding-bottom:10px;
+    padding-right:10px;
+    padding-top:5px;
+}
+
+.archivelink{
+    color:lightgray;
+}
+
+.name{
+    margin:0;
+    margin-top: 2px;
+    padding:0;
+}
+
+#cast{
+    width:75%;
+    margin:auto;
+    background-color: #183070;
+    padding-left:10px;
+    padding-bottom:10px;
+    padding-right:10px;
+    padding-top:5px;
+}
+
+.castimg{
+    display:block;
+    
+    margin:auto;
+    margin-top:40px;
+}
+
+footer{
+    background-color: #183070;
+    margin-bottom:0px;
+    position:absolute;
+    padding-left:20px;
+    padding-right:-20px;
+    padding-bottom:20px;
+    left:0;
+    bottom:0;
+    width:100%;
+    height:30px;
+}
+
+#splash{
+    width:120%;
+    margin-left:-20%;
+}
+#thumbnail{
+    width:100%;
+}

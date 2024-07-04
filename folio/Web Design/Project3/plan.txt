@@ -1,0 +1,4 @@
+Schedule: Today: Finish SVG animations
+Tuesday: Start on content. Styling is secondary, just get a rough "sketch" down- Where images should go, where text should go.
+Wednesday: Fill in content.
+Thursday: Style and refine.

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100.28" height="100.36" viewBox="0 0 100.28 100.36">
+  <defs>
+    <style>
+      .b {
+        fill: none;
+        stroke: #43ff94;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .c {
+        fill: #43ff94;
+      }
+    </style>
+  </defs>
+ 
+  <g>
+    <g>
+      <rect x="45.14" y="43" width="10" height="44"/>
+      <path d="M53.14,45v40h-6V45h6m4-4h-14v48h14V41h0Z"/>
+      <rect class="b" x="47.14" y="45" width="6" height="40"/>
+    </g>
+    <g>
+      <g>
+        <rect x="59.36" y="59.11" width="16.23" height="16.23"/>
+        <path d="M74.6,60.11v14.23h-14.23v-14.23h14.23m2-2h-18.23v18.23h18.23v-18.23h0Z"/>
+        <path class="c" d="M72.6,62.11v10.23h-10.23v-10.23h10.23m2-2h-14.23v14.23h14.23v-14.23h0Z"/>
+      </g>
+      <g>
+        <rect x="83.04" y="62.82" width="16.23" height="16.23"/>
+        <path d="M98.28,63.82v14.23h-14.23v-14.23h14.23m2-2h-18.23v18.23h18.23v-18.23h0Z"/>
+        <path class="c" d="M96.28,65.82v10.23h-10.23v-10.23h10.23m2-2h-14.23v14.23h14.23v-14.23h0Z"/>
+      </g>
+      <g>
+        <rect x="62.74" y="83.12" width="16.23" height="16.23"/>
+        <path d="M77.98,84.12v14.23h-14.23v-14.23h14.23m2-2h-18.23v18.23h18.23v-18.23h0Z"/>
+        <path class="c" d="M75.98,86.12v10.23h-10.23v-10.23h10.23m2-2h-14.23v14.23h14.23v-14.23h0Z"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect x="24.68" y="59.11" width="16.23" height="16.23"/>
+        <path d="M39.91,60.11v14.23h-14.23v-14.23h14.23m2-2H23.68v18.23h18.23v-18.23h0Z"/>
+        <path class="c" d="M37.91,62.11v10.23h-10.23v-10.23h10.23m2-2h-14.23v14.23h14.23v-14.23h0Z"/>
+      </g>
+      <g>
+        <rect x="1" y="62.82" width="16.23" height="16.23"/>
+        <path d="M16.23,63.82v14.23H2v-14.23h14.23m2-2H0v18.23H18.23v-18.23h0Z"/>
+        <path class="c" d="M14.23,65.82v10.23H4v-10.23H14.23m2-2H2v14.23h14.23v-14.23h0Z"/>
+      </g>
+      <g>
+        <rect x="21.3" y="83.12" width="16.23" height="16.23"/>
+        <path d="M36.53,84.12v14.23h-14.23v-14.23h14.23m2-2H20.3v18.23h18.23v-18.23h0Z"/>
+        <path class="c" d="M34.53,86.12v10.23h-10.23v-10.23h10.23m2-2h-14.23v14.23h14.23v-14.23h0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

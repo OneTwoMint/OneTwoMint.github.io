@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 303.66 207.66">
+<defs>
+<style>
+.cls-1{fill:#321d0c;stroke:#755236;stroke-miterlimit:10;stroke-width:8px;}
+.cls-2{fill:#b69864;}
+.cls-3{fill:#c6c2c3;}
+.a{
+    animation: anima 4s infinite;
+}
+.b{
+    animation: animb 4s infinite;
+}
+
+@keyframes anima {
+    0%{
+        opacity:0%;
+    }
+    10%{
+        opacity:100%;
+    }
+    40%{
+        opacity:100%;
+    }
+    50%{
+        opacity:0%;
+    }
+    100%{
+        opacity:0%;
+    }
+}
+@keyframes animb {
+    0%{
+        opacity:0%;
+    }
+    50%{
+        opacity:0%;
+    }
+    60%{
+        opacity:100%;
+    }
+    90%{
+        opacity:100%;
+    }
+    100%{
+        opacity:0%;
+    }
+}
+
+
+</style>
+</defs>
+<rect class="cls-1" x="4" y="4" width="295.66" height="199.66"/>
+<rect class="cls-2 a" x="120.94" y="120.94" width="54.13" height="65.87"/>
+<rect class="cls-3 a" x="14.21" y="18.81" width="58.72" height="82.72"/>
+<rect class="cls-3 a" x="998.19" y="597.6" width="58.72" height="82.72" transform="translate(-960.88 -14.63) rotate(-24.8)"/>
+<rect class="cls-3 b" x="914.19" y="529.43" width="54.13" height="65.87" transform="translate(-380.35 -899.77) rotate(30)"/>
+<rect class="cls-2 b" x="126.81" y="100.77" width="58.72" height="82.72"/>
+<rect class="cls-2 b" x="226.64" y="17.28" width="54.13" height="65.87"/>
+<rect class="cls-3 b" x="35.91" y="110.47" width="58.72" height="82.72"/>
+</svg>

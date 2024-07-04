@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:rebeccapurple;
+	color:lightgoldenrodyellow;
+	font-family: 'Share Tech Mono', monospace;
+}
+.navbar{
+	background-color:mediumpurple;
+	color:white;
+	font-family: 'VT323', monospace;
+	font-size:2em;
+}
+.nav-item{
+	margin-left:6%;
+}
+.nav-item>a{
+	color:white;
+	
+}
+.nav-item>a:hover{
+	color:lightpink;
+}
+
+.carousel{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.carousel-item{
+	background-color:rgba(184,62,180,0.60);
+}
+img{
+	width:100%;
+}
+.row{
+}
+
+.navbar-toggler-icon{
+	background-color:aqua;
+	border-radius:10px;
+	padding:10%;
+	color:mediumpurple;
+	text-align:center;
+	
+}
+
+.text{
+	width:80%;
+	margin:auto;
+}
+
+h6{
+	text-align:center;
+	font-weight:100;
+}
+
+h1{
+	font-family: 'Major Mono Display', monospace;
+}
+.ghost{
+	width:30%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:20px;
+
+}
+
+.carousel-item>img{
+	width:auto;
+	height:600px;
+}
+.carousel-caption>h5{
+	background-color:rgba(0,0,0,0.50)
+}
+
+
+@media (max-width:768px) {
+	.text{
+		width:90%;
+	}
+	.ghost{
+		width:60%;
+	}
+	.carousel-item>img{
+	width:auto;
+	height:80vw;
+}
+}
