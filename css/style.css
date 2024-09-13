@@ -20,6 +20,13 @@ h4{
 	font-family: 'Share Tech Mono', monospace;
 }
 
+iframe{
+	display:block;
+	width:768px;
+	height:432px;
+	margin:auto;
+}
+
 video{
 	display:block;
 	width:90%;
@@ -303,4 +310,32 @@ a>img{
 	margin-top:100px;
 }
 
+}
+
+@media (max-width: 1036px) {
+	iframe{
+		width:576px;
+		height:324px;
+	}
+}
+
+@media (max-width: 778px) {
+	iframe{
+		width:384px;
+		height:216px;
+	}
+}
+
+@media (max-width: 513px) {
+	iframe{
+		width:288px;
+		height:162px;
+	}
+}
+
+@media (max-width: 380px) {
+	iframe{
+		width:192px;
+		height:108px;
+	}
 }
